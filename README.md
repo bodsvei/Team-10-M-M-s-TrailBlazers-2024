@@ -49,7 +49,7 @@ We encourage collaborative development! Please adhere to the following guideline
 ---
 
 ## Contact
-For any queries, suggestions, or discussions, feel free to reach out to the team through Gyan and .
+For any queries, suggestions, or discussions, feel free to reach out to the team through Gyan and Anuj, they will be our mentors throughout TrailBlazers.
 
 ---
 
