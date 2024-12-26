@@ -1,2 +1,2 @@
-if __name__ == "main":
-    
+from math.py import DisGUI()
+
