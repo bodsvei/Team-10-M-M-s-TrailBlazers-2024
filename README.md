@@ -57,8 +57,8 @@ Refer to ‘Useful Links’ in the Preliminary Section for the links to some of 
 
 
 Some tutorials:
-[Xflr5](https://www.youtube.com/playlist?list=PLtl5ylS6jdP6uOxzSJKPnUsvMbkmalfKg): VVVVVV IMP PLS GO THROUGH THIS
-[Fusion](https://www.youtube.com/playlist?list=PLrZ2zKOtC_-DR2ZkMaK3YthYLErPxCnT-): [Imp Vids: 1,2,3,4,6,15,18,19,28, and look through anything else you find cool] 
+1. [Xflr5](https://www.youtube.com/playlist?list=PLtl5ylS6jdP6uOxzSJKPnUsvMbkmalfKg): VVVVVV IMP PLS GO THROUGH THIS
+2. [Fusion](https://www.youtube.com/playlist?list=PLrZ2zKOtC_-DR2ZkMaK3YthYLErPxCnT-): [Imp Vids: 1,2,3,4,6,15,18,19,28, and look through anything else you find cool] 
 
 
 ---
