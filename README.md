@@ -11,7 +11,7 @@ The team comprises:
 2. Aarush Dhumale  (Structural Design)
 3. Arjun Thakur  (Structural Design)
 4. Aarush Kohli  (Aerodynamics)
-5. Aditya Tambe  (Aerodynamics
+5. Aditya Tambe  (Aerodynamics)
 6. Rehan Siddiqui  (Aerodynamics)
 7. Anirudh Singh Air  (Math)
 
@@ -28,7 +28,7 @@ The team comprises:
 The repository is organized as follows:
 
 ```
-M&M's/
+Team-10-M-M-s-TrailBlazers-2024/
 |
 ├── scripts/             # Python scripts for analysis
 ├── struc/               # Stutural Design
