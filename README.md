@@ -1,6 +1,6 @@
 # TrailBlazers 2024 Mogambo's Mavericks (M&M's)
 
-Welcome to the **Team 10 : Mogambo's Mavericks (M&M's)** repository! This repository is dedicated to the **Math Section** of the Aerodynamics Club at BITS Goa. Our focus is on analyzing designs and refining the associated computations using Python to ensure accuracy and efficiency in our aerodynamic projects.
+Welcome to the **Team 10 : Mogambo's Mavericks (M&M's)** repository!
 
 ---
 
