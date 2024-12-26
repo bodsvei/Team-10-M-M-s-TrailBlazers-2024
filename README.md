@@ -1,27 +1,19 @@
-# TrailBlazers 2024 - Math Section
+# TrailBlazers 2024 Mogambo's Mavericks (M&M's)
 
-Welcome to the **TrailBlazers 2024** repository! This repository is dedicated to the **Math Section** of the Aerodynamics Club at BITS Goa. Our focus is on analyzing designs and refining the associated computations using Python to ensure accuracy and efficiency in our aerodynamic projects.
-
----
-
-## About TrailBlazers 2024
-TrailBlazers 2024 is our annual aerodynamics competition aimed at innovating, designing, and showcasing state-of-the-art aerodynamic solutions. This repository plays a critical role in the competition as it houses all the mathematical computations and code that support the team's design analysis.
+Welcome to the **Team 10 : Mogambo's Mavericks (M&M's)** repository! This repository is dedicated to the **Math Section** of the Aerodynamics Club at BITS Goa. Our focus is on analyzing designs and refining the associated computations using Python to ensure accuracy and efficiency in our aerodynamic projects.
 
 ---
 
 ## Team Members
-The **Math Section** team comprises:
+The team comprises:
 
-1. [Your Name]  
-2. [Teammate 1 Name]  
-3. [Teammate 2 Name]  
-4. [Teammate 3 Name]  
-5. [Teammate 4 Name]  
-6. [Teammate 5 Name]  
-7. [Teammate 6 Name]  
-8. [Teammate 7 Name]
-
-Together, we form a dynamic team passionate about pushing the boundaries of aerodynamics through robust mathematical analysis and computational precision.
+1. **Aditya Kushawala aka. Mogambo**  (Structural Design)
+2. Aarush Dhumale  (Structural Design)
+3. Arjun Thakur  (Structural Design)
+4. Aarush Kohli  (Aerodynamics)
+5. Aditya Tambe  (Aerodynamics
+6. Rehan Siddiqui  (Aerodynamics)
+7. Anirudh Singh Air  (Math)
 
 ---
 
@@ -36,31 +28,16 @@ Together, we form a dynamic team passionate about pushing the boundaries of aero
 The repository is organized as follows:
 
 ```
-TrailBlazers2024/
+M&M's/
 |
-├── data/                # Data files for computations
-├── scripts/             # Python scripts for analysis and refinement
+├── scripts/             # Python scripts for analysis
+├── struc/               # Stutural Design
+├── aeroD/               # Analysis results and visualizations
 ├── notebooks/           # Jupyter notebooks for prototyping
 ├── results/             # Analysis results and visualizations
 ├── docs/                # Documentation and references
 └── README.md            # Project overview (this file)
 ```
-
----
-
-## Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/TrailBlazers2024.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd TrailBlazers2024
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ---
 
@@ -72,8 +49,11 @@ We encourage collaborative development! Please adhere to the following guideline
 ---
 
 ## Contact
-For any queries, suggestions, or discussions, feel free to reach out to the team through the Aerodynamics Club at BITS Goa.
+For any queries, suggestions, or discussions, feel free to reach out to the team through Gyan and .
 
 ---
 
 Let's soar to new heights with TrailBlazers 2024!
+Remember the pact,
+We gotta win this boys,
+We fly high 🍃💨!
