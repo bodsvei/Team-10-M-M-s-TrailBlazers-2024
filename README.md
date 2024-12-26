@@ -53,7 +53,6 @@ For any queries, suggestions, or discussions, feel free to reach out to the team
 
 ---
 
-Let's soar to new heights with TrailBlazers 2024!
 Remember the pact,
 We gotta win this boys,
 We fly high 🍃💨!
