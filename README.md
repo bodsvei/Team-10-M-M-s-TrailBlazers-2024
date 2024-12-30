@@ -60,6 +60,22 @@ Some tutorials:
 1. [Xflr5](https://www.youtube.com/playlist?list=PLtl5ylS6jdP6uOxzSJKPnUsvMbkmalfKg): VVVVVV IMP PLS GO THROUGH THIS
 2. [Fusion](https://www.youtube.com/playlist?list=PLrZ2zKOtC_-DR2ZkMaK3YthYLErPxCnT-): [Imp Vids: 1,2,3,4,6,15,18,19,28, and look through anything else you find cool] 
 
+---
+
+## Rules Update
+
+QuarkC posted rules will be followed for the most part, but there will be a few differences in the rules internally, which take priority over whatever is mentioned in the rulebook. Such instances will be announced in this channel and it is expected that all teams will be aware of them.
+With that in mind, take note:
+•⁠  ⁠Actual report submission deadline will be 7th January, NOT 8th.
+
+A few other points:
+•⁠  ⁠For propulsion, everyone will be using 1000kv motor, 10x47 prop, 3 cell battery. 
+•⁠  ⁠These are the materials you guys will have access to for building: 
+5mm depron
+3mm balsa
+10mm square CF rods pultruded
+EPS foam block
+1.5/2mm aeroply
 
 ---
 
