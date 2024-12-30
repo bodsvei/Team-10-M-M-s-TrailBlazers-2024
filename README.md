@@ -66,16 +66,24 @@ Some tutorials:
 
 QuarkC posted rules will be followed for the most part, but there will be a few differences in the rules internally, which take priority over whatever is mentioned in the rulebook. Such instances will be announced in this channel and it is expected that all teams will be aware of them.
 With that in mind, take note:
-•⁠  ⁠Actual report submission deadline will be 7th January, NOT 8th.
 
-A few other points:
-•⁠  ⁠For propulsion, everyone will be using 1000kv motor, 10x47 prop, 3 cell battery. 
-•⁠  ⁠These are the materials you guys will have access to for building: 
-5mm depron
-3mm balsa
-10mm square CF rods pultruded
-EPS foam block
-1.5/2mm aeroply
+1.⁠ Actual report submission deadline will be 7th January, NOT 8th.
+
+ 
+```
+A few other points:/
+|
+├── For propulsion, everyone will be using 1000kv motor, 10x47 prop, 3 cell battery.
+├── These are the materials you guys will have access to for building
+├── 5mm depron 
+├── 3mm Balsa
+├── 10mm square CF rods pultruded
+├── EPS foam block
+└── 1.5 / 2mm aeroply
+```
+
+---
+
 
 ---
 
